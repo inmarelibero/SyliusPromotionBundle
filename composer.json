@@ -28,7 +28,7 @@
         "sylius/registry": "dev-symfony_3_compatibility",
         "sylius/money-bundle": "dev-symfony_3_compatibility",
         "sylius/resource-bundle": "dev-symfony_3_compatibility",
-        "symfony/framework-bundle": "dev-symfony_3_compatibility"
+        "symfony/framework-bundle": "^3.0"
     },
     "require-dev": {
         "phpspec/phpspec": "^2.4",
